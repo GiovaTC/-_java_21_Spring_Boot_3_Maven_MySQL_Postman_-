@@ -54,5 +54,5 @@ public class Producto {
 
     public void setCantidad(Integer cantidad) {
         this.cantidad = cantidad;
-    }   
+    }
 }
