@@ -42,4 +42,4 @@ public class ProductoService {
     public void eliminar(Long id) {
         repository.deleteById(id);
     }
-}   
+}
